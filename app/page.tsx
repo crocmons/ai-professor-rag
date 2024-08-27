@@ -152,7 +152,7 @@ export default function Chat() {
           />
           <button
             onClick={sendMessage}
-            className="bg-gray-500 text-white font-oswald font-semibold px-4 py-2 rounded hover:bg-blue-500 flex items-center justify-center transition-all"
+            className="bg-gray-300 font-oswald font-semibold px-4 py-2 rounded hover:bg-blue-500 flex items-center justify-center transition-all"
           >
             {isFetching ? (
               <Image src={loader} alt="loader" width={24} height={24} />
