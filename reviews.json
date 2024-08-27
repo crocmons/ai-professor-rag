@@ -1,0 +1,184 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Dr. Johnson explains complex concepts clearly. Her labs are challenging but enlightening."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Brilliant instructor! Prof. Chen's passion for coding is contagious. Best CS class I've taken."
+      },
+      {
+        "professor": "Dr. Sarah Williams",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Decent lectures, but exams are much harder than the material covered in class."
+      },
+      {
+        "professor": "Prof. David Lee",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Prof. Lee is patient and willing to help. His office hours are incredibly useful."
+      },
+      {
+        "professor": "Dr. Rachel Martinez",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Engaging lectures and fascinating experiments. Dr. Martinez is a true expert in her field."
+      },
+      {
+        "professor": "Prof. Robert Taylor",
+        "subject": "History",
+        "stars": 2,
+        "review": "Monotonous lectures. Relies too heavily on memorization rather than critical thinking."
+      },
+      {
+        "professor": "Dr. Lisa Brown",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Challenging course, but Dr. Brown's enthusiasm makes it enjoyable. Great lab sessions."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "English Literature",
+        "stars": 3,
+        "review": "Knowledgeable, but sometimes unclear in his expectations for assignments."
+      },
+      {
+        "professor": "Dr. Anna Kowalski",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Thought-provoking discussions and relevant case studies. Dr. Kowalski is inspirational."
+      },
+      {
+        "professor": "Prof. Thomas Garcia",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Clear explanations of complex economic theories. Prof. Garcia uses great real-world examples."
+      },
+      {
+        "professor": "Dr. Michelle Patel",
+        "subject": "Neuroscience",
+        "stars": 5,
+        "review": "Cutting-edge research incorporated into lectures. Dr. Patel is at the top of her field."
+      },
+      {
+        "professor": "Prof. Daniel Kim",
+        "subject": "Art History",
+        "stars": 3,
+        "review": "Extensive knowledge, but lectures can be dry. More interactive elements would help."
+      },
+      {
+        "professor": "Dr. Laura Schmidt",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Passionate about the subject. Field trips are a highlight of Dr. Schmidt's course."
+      },
+      {
+        "professor": "Prof. Richard Olsen",
+        "subject": "Philosophy",
+        "stars": 2,
+        "review": "Often goes off on tangents. Grading seems arbitrary and feedback is minimal."
+      },
+      {
+        "professor": "Dr. Samantha Lee",
+        "subject": "Genetics",
+        "stars": 5,
+        "review": "Exceptional at breaking down complex genetic concepts. Dr. Lee's research is fascinating."
+      },
+      {
+        "professor": "Prof. Andrew Jackson",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Knowledgeable but biased in presentations. Encourages debate, which is good."
+      },
+      {
+        "professor": "Dr. Olivia Chen",
+        "subject": "Astrophysics",
+        "stars": 4,
+        "review": "Challenging material, but Dr. Chen's enthusiasm is infectious. Star-gazing sessions are amazing."
+      },
+      {
+        "professor": "Prof. William Harris",
+        "subject": "Marketing",
+        "stars": 3,
+        "review": "Good real-world experience, but course structure could be improved."
+      },
+      {
+        "professor": "Dr. Jennifer Lopez",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Fascinating course content. Dr. Lopez makes language study exciting and relevant."
+      },
+      {
+        "professor": "Prof. Mark Thompson",
+        "subject": "Civil Engineering",
+        "stars": 4,
+        "review": "Practical approach to teaching. Prof. Thompson's industry connections are valuable."
+      },
+      {
+        "professor": "Dr. Akira Tanaka",
+        "subject": "Quantum Physics",
+        "stars": 5,
+        "review": "Brilliant mind. Dr. Tanaka somehow makes quantum physics understandable and exciting."
+      },
+      {
+        "professor": "Prof. Elizabeth Green",
+        "subject": "Business Ethics",
+        "stars": 2,
+        "review": "Outdated case studies. Prof. Green seems disinterested in student opinions."
+      },
+      {
+        "professor": "Dr. Hassan Ali",
+        "subject": "International Relations",
+        "stars": 4,
+        "review": "Insightful discussions on global issues. Dr. Ali brings a wealth of experience to the class."
+      },
+      {
+        "professor": "Prof. Catherine White",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Clear explanations, but pacing is too fast. More practice problems would be helpful."
+      },
+      {
+        "professor": "Dr. Frank Miller",
+        "subject": "Organic Chemistry",
+        "stars": 4,
+        "review": "Tough course, but Dr. Miller is always available to help. His molecular models are fantastic."
+      },
+      {
+        "professor": "Prof. Sophia Rodriguez",
+        "subject": "Film Studies",
+        "stars": 5,
+        "review": "Passionate and knowledgeable. Prof. Rodriguez's analysis of films is eye-opening."
+      },
+      {
+        "professor": "Dr. George Baker",
+        "subject": "Mechanical Engineering",
+        "stars": 3,
+        "review": "Solid theoretical knowledge, but could use more practical applications in class."
+      },
+      {
+        "professor": "Prof. Ava Johnson",
+        "subject": "Gender Studies",
+        "stars": 4,
+        "review": "Thought-provoking lectures. Prof. Johnson creates a safe space for open discussions."
+      },
+      {
+        "professor": "Dr. Rajesh Gupta",
+        "subject": "Artificial Intelligence",
+        "stars": 5,
+        "review": "Cutting-edge course content. Dr. Gupta's projects are challenging and rewarding."
+      },
+      {
+        "professor": "Prof. Emma Larsson",
+        "subject": "Music Theory",
+        "stars": 4,
+        "review": "Excellent at explaining complex musical concepts. Prof. Larsson's ear training sessions are particularly helpful."
+      }
+    ]
+  }

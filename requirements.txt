@@ -1,0 +1,11 @@
+groq
+python-dotenv
+pinecone-client[grpc]
+sentence-transformers
+langchain_huggingface
+langchain-groq
+langchain
+langchain_core
+langchain_community
+google-generativeai
+ipykernel
